@@ -1,0 +1,52 @@
+/* styles.css */
+
+/* General styling for the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
+  }
+  
+  th, td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Styling for table headers */
+  th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  /* Hover effect for table rows */
+  tbody tr:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+  }
+  
+  /* Styling for the investor details container */
+  .investor-details {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 20px 0;
+    background-color: #f9f9f9;
+  }
+  
+  /* Styling for dropdowns and buttons */
+  select, button {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  /* Styling for headings */
+  h2 {
+    margin-top: 0;
+  }
+  
+  
